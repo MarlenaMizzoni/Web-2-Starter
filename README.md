@@ -1,4 +1,4 @@
-# Web-2-Starter
+# My Animated SVG
 
 ## Why?
 * Saves time to set up new project
@@ -12,5 +12,5 @@
 
 ## Citations
 
-* [Normalize CSS](https://necolas.github.io/normalize.css/)
+* [SVG Icon](https://lucide.dev/)
 
